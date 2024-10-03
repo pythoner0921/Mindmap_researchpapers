@@ -1,9 +1,5 @@
 (内容由chatgpt生成)
 
---在日本的经济学在读研究生（修士）
-
---非计算机专业，兴趣为主
-
 项目名称: Mindmap_researchpapsers
 
 项目简介
